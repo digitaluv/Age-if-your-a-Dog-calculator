@@ -1,0 +1,22 @@
+body {
+    font-family: 'Gantari', sans-serif;
+    font-family: 'Gentium Book Plus', serif;
+    background-color: bisque;
+}
+section {
+    text-align: center;
+    padding: 50px;
+    
+}
+h1 {
+    color: black;
+}
+p {
+    text-align: justify;
+}
+h2{
+    color: b;
+}
+#age{
+    border: 2px dotted purple;
+}
